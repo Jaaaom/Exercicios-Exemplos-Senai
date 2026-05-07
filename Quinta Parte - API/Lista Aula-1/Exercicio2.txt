@@ -1,0 +1,5 @@
+2. Mapeie os verbos HTTP para operações CRUD [Básico]
+– Para cada verbo (GET, POST, PUT, PATCH, DELETE), indique a operação CRUD
+correspondente
+– Explique a diferença entre PUT e PATCH com um exemplo concreto
+– Por que DELETE geralmente não tem body na requisição?

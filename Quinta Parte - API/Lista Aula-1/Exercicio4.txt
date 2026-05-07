@@ -1,0 +1,6 @@
+4. Princípios REST: verdadeiro ou falso? [Intermediário]
+– "REST é um protocolo assim como HTTP."
+– "Uma API RESTful deve armazenar estado de sessão no servidor."
+– "O verbo HTTP e a URL juntos definem completamente a ação em REST."
+– "REST e GraphQL são a mesma coisa."
+– Justifique cada resposta com uma frase.

@@ -1,0 +1,35 @@
+1. Explique com suas próprias palavras o que é uma API [Básico]
+
+Resposta: API é a sigla para Application Programming Interface, ou em português, Interface de Programação de Aplicações. 
+Trata-se de um conjunto de regras, protocolos e ferramentas que permitem a comunicação entre diferentes sistemas, aplicativos 
+ou serviços de forma padronizada e eficiente.
+
+Uma API funciona como um intermediário que facilita a troca de informações entre um cliente (quem faz a solicitação) e um 
+servidor (quem responde). Por exemplo, ao usar um aplicativo de mapas, a API do Google Maps é responsável por fornecer os 
+dados de localização e rotas diretamente para o aplicativo.
+====================================================================================================================================
+– Descreva o papel de intermediário da API usando a analogia do garçom
+
+Resposta: Assim como numn restaurante a API faz a integração entre o cliente e o servidor, ele leva o pedido do cliente e 
+traz de volta a resposta do servidor
+====================================================================================================================================
+– Cite duas diferenças entre uma API e um site web tradicional
+
+Resposta: Uma API (Application Programming Interface) é uma interface que permite a comunicação entre diferentes softwares. 
+Ela define métodos e protocolos para que sistemas possam interagir, independentemente de estarem conectados à internet. 
+APIs podem ser implementadas usando diversos protocolos, como REST, SOAP e GraphQL, e são amplamente utilizadas para integrações 
+internas, aplicativos móveis e plataformas de redes sociais.
+
+Um Web Service, por outro lado, é um tipo específico de API que funciona exclusivamente através da internet. Ele utiliza 
+protocolos padrão da web, como HTTP, e formatos como XML ou JSON para permitir a comunicação entre sistemas. 
+Web Services são ideais para cenários que exigem interoperabilidade entre sistemas heterogêneos, como transações financeiras 
+e serviços públicos.
+====================================================================================================================================
+– Dê dois exemplos reais de APIs que você já usou ou ouviu falar
+
+
+
+
+
+
+

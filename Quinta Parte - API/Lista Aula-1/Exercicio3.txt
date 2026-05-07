@@ -1,0 +1,6 @@
+3. Analise os status codes abaixo e classifique o que cada um representa
+[Intermediário]
+– 200, 201, 204 — qual a diferença entre eles?
+– 400, 401, 403, 404 — quando cada um deve ser usado?
+– 500 — o que indica e quem é o responsável?
+– Uma API retorna sempre 200 com {"error": true} no body — isso é correto? Justifique.
